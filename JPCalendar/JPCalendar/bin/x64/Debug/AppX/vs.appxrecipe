@@ -1,0 +1,344 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Machine>LAPTOP-6TN7MINU</Machine>
+    <WindowsUser>86139</WindowsUser>
+    <TargetPlatformIdentifier>UAP</TargetPlatformIdentifier>
+    <TargetOsVersion>10.0</TargetOsVersion>
+    <TargetOsDescription>Windows 10.0</TargetOsDescription>
+    <SolutionConfiguration>Debug|x64</SolutionConfiguration>
+    <PackageArchitecture>x64</PackageArchitecture>
+    <PackageIdentityName>d52ad478-ebab-4e30-9704-3489fcba9746</PackageIdentityName>
+    <PackageIdentityPublisher>CN=86139</PackageIdentityPublisher>
+    <IntermediateOutputPath>C:\Users\86139\source\repos\JPCalendar\JPCalendar\obj\x64\Debug\</IntermediateOutputPath>
+    <RemoteDeploymentType>
+    </RemoteDeploymentType>
+    <PackageRegistrationPath>
+    </PackageRegistrationPath>
+    <RemoveNonLayoutFiles>true</RemoveNonLayoutFiles>
+    <DeployOptionalPackages>false</DeployOptionalPackages>
+    <WindowsSdkPath>C:\Program Files %28x86%29\Windows Kits\10\</WindowsSdkPath>
+    <LayoutDir>C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\AppX</LayoutDir>
+    <RegisteredManifestChecksum>EAEEB3E7F6195882A2B6D854847B3C1FD15B37A0B2577191971370DCDF95FBAD</RegisteredManifestChecksum>
+    <RegisteredPackageMoniker>d52ad478-ebab-4e30-9704-3489fcba9746_1.0.0.0_x64__18hz0yzr7atey</RegisteredPackageMoniker>
+    <RegisteredUserModeAppID>d52ad478-ebab-4e30-9704-3489fcba9746_18hz0yzr7atey!App</RegisteredUserModeAppID>
+    <RegisteredPackageID>d52ad478-ebab-4e30-9704-3489fcba9746</RegisteredPackageID>
+    <RegisteredPackagePublisher>CN=86139</RegisteredPackagePublisher>
+    <RegisteredVersion>1.0.0.0</RegisteredVersion>
+  </PropertyGroup>
+  <ItemGroup>
+    <AppXManifest Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Core\AppxManifest.xml">
+      <PackagePath>AppxManifest.xml</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-10-30T15:20:59.314</Modified>
+    </AppXManifest>
+  </ItemGroup>
+  <ItemGroup>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\JPCalendar.exe">
+      <PackagePath>entrypoint\JPCalendar.exe</PackagePath>
+      <Modified>2020-10-30T15:20:58.772</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.netcore.universalwindowsplatform\6.2.10\runtimes\win10-x64\lib\uap10.0.15138\System.Runtime.dll">
+      <PackagePath>System.Runtime.dll</PackagePath>
+      <Modified>2020-02-27T11:17:32.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\bin\10.0.18362.0\XamlCompiler\Microsoft.UI.Xaml.Markup.winmd">
+      <PackagePath>Microsoft.UI.Xaml.Markup.winmd</PackagePath>
+      <Modified>2019-03-18T10:36:56.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\Properties\Default.rd.xml">
+      <PackagePath>Properties\Default.rd.xml</PackagePath>
+      <Modified>2020-08-26T02:47:10.768</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\Assets\LockScreenLogo.scale-200.png">
+      <PackagePath>Assets\LockScreenLogo.scale-200.png</PackagePath>
+      <Modified>2020-08-25T02:48:58.330</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\Assets\SplashScreen.scale-200.png">
+      <PackagePath>Assets\SplashScreen.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T02:48:58.336</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\Assets\Square150x150Logo.scale-200.png">
+      <PackagePath>Assets\Square150x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T02:48:58.337</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\Assets\Square44x44Logo.scale-200.png">
+      <PackagePath>Assets\Square44x44Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T02:48:58.338</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\Assets\Square44x44Logo.targetsize-24_altform-unplated.png">
+      <PackagePath>Assets\Square44x44Logo.targetsize-24_altform-unplated.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T02:48:58.339</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\Assets\StoreLogo.png">
+      <PackagePath>Assets\StoreLogo.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T02:48:58.341</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\Assets\Wide310x150Logo.scale-200.png">
+      <PackagePath>Assets\Wide310x150Logo.scale-200.png</PackagePath>
+      <ReRegisterAppIfChanged>true</ReRegisterAppIfChanged>
+      <Modified>2020-08-25T02:48:58.342</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\JPCalendar.xr.xml">
+      <PackagePath>JPCalendar.xr.xml</PackagePath>
+      <Modified>2020-10-30T15:18:20.350</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\App.xbf">
+      <PackagePath>App.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\MainPage.xbf">
+      <PackagePath>MainPage.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\MonthLastPage.xbf">
+      <PackagePath>MonthLastPage.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\MonthNextPage.xbf">
+      <PackagePath>MonthNextPage.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\MonthPage.xbf">
+      <PackagePath>MonthPage.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.490</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\NullPage.xbf">
+      <PackagePath>Unforgetable\NullPage.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page1.xbf">
+      <PackagePath>Unforgetable\Page1.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page10.xbf">
+      <PackagePath>Unforgetable\Page10.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page11.xbf">
+      <PackagePath>Unforgetable\Page11.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page12.xbf">
+      <PackagePath>Unforgetable\Page12.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page13.xbf">
+      <PackagePath>Unforgetable\Page13.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page14.xbf">
+      <PackagePath>Unforgetable\Page14.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page15.xbf">
+      <PackagePath>Unforgetable\Page15.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page16.xbf">
+      <PackagePath>Unforgetable\Page16.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page17.xbf">
+      <PackagePath>Unforgetable\Page17.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page18.xbf">
+      <PackagePath>Unforgetable\Page18.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page19.xbf">
+      <PackagePath>Unforgetable\Page19.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page2.xbf">
+      <PackagePath>Unforgetable\Page2.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.491</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page3.xbf">
+      <PackagePath>Unforgetable\Page3.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page4.xbf">
+      <PackagePath>Unforgetable\Page4.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page5.xbf">
+      <PackagePath>Unforgetable\Page5.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page6.xbf">
+      <PackagePath>Unforgetable\Page6.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page7.xbf">
+      <PackagePath>Unforgetable\Page7.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page8.xbf">
+      <PackagePath>Unforgetable\Page8.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page9.xbf">
+      <PackagePath>Unforgetable\Page9.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page20.xbf">
+      <PackagePath>Unforgetable\Page20.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page21.xbf">
+      <PackagePath>Unforgetable\Page21.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page22.xbf">
+      <PackagePath>Unforgetable\Page22.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page23.xbf">
+      <PackagePath>Unforgetable\Page23.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page24.xbf">
+      <PackagePath>Unforgetable\Page24.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page25.xbf">
+      <PackagePath>Unforgetable\Page25.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page26.xbf">
+      <PackagePath>Unforgetable\Page26.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page27.xbf">
+      <PackagePath>Unforgetable\Page27.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page28.xbf">
+      <PackagePath>Unforgetable\Page28.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.492</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page29.xbf">
+      <PackagePath>Unforgetable\Page29.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page30.xbf">
+      <PackagePath>Unforgetable\Page30.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Unforgetable\Page31.xbf">
+      <PackagePath>Unforgetable\Page31.xbf</PackagePath>
+      <Modified>2020-10-30T15:19:09.493</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Program Files %28x86%29\Windows Kits\10\UnionMetadata\10.0.18362.0\Windows.winmd">
+      <PackagePath>WinMetadata\Windows.winmd</PackagePath>
+      <Modified>2019-03-18T09:33:42.000</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\resources.pri">
+      <PackagePath>resources.pri</PackagePath>
+      <Modified>2020-10-30T15:18:21.373</Modified>
+    </AppxPackagedFile>
+    <AppxPackagedFile Include="C:\Users\86139\source\repos\JPCalendar\JPCalendar\bin\x64\Debug\Core\JPCalendar.exe">
+      <PackagePath>JPCalendar.exe</PackagePath>
+      <Modified>2020-10-30T15:20:59.310</Modified>
+    </AppxPackagedFile>
+  </ItemGroup>
+  <ItemGroup>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx">
+      <Name>Microsoft.NET.CoreRuntime.2.2</Name>
+      <Version>2.2.27902.3</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreRuntime.2.2, MinVersion = 2.2.27902.3, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreRuntime.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x86.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-x64.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx">
+      <Name>Microsoft.NET.CoreFramework.Debug.2.2</Name>
+      <Version>2.2.28529.0</Version>
+      <Architecture>arm</Architecture>
+      <FrameworkIdentity>Name = Microsoft.NET.CoreFramework.Debug.2.2, MinVersion = 2.2.28529.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\UWPNuGetPackages\runtime.win10-arm.microsoft.net.uwpcoreruntimesdk\2.2.10\build\..\tools\Appx\Microsoft.NET.CoreFramework.Debug.2.2.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM\Microsoft.VCLibs.ARM.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>ARM64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\ARM64\Microsoft.VCLibs.ARM64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x64</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x64\Microsoft.VCLibs.x64.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+    <ResolvedSDKReference Include="C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\">
+      <Name>Microsoft.VCLibs.140.00.Debug</Name>
+      <Version>14.0.27810.0</Version>
+      <Architecture>x86</Architecture>
+      <FrameworkIdentity>Name = Microsoft.VCLibs.140.00.Debug, MinVersion = 14.0.27810.0, Publisher = %27CN=Microsoft Corporation, O=Microsoft Corporation, L=Redmond, S=Washington, C=US%27</FrameworkIdentity>
+      <AppxLocation>C:\Program Files %28x86%29\Microsoft SDKs\Windows Kits\10\ExtensionSDKs\Microsoft.VCLibs\14.0\.\AppX\Debug\x86\Microsoft.VCLibs.x86.Debug.14.00.appx</AppxLocation>
+      <MoreInfo>
+      </MoreInfo>
+    </ResolvedSDKReference>
+  </ItemGroup>
+</Project>
